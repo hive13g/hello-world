@@ -1,2 +1,2 @@
 # hello-world
-describe it
+its described
